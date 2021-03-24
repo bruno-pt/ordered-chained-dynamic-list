@@ -7,6 +7,9 @@ The elements are sorted alphabetically.<br />
 The "dynamic" means that when the user add an new element the program will allocate memory to it.<br />
 The dynamic allocation and element pointer removes the need of an static array. This allows you to register new elements until you run out of memory.
 
+<h1>How to run?</h1>
+Just execute the start-app.exe      :)
+
 <h1>Features</h1>
 <ul>
 	<li>Create a list</li>
