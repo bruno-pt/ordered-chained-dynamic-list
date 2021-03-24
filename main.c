@@ -15,7 +15,7 @@ int menu(){
     printf("\n  | 5 - Consult by Position");
     printf("\n  | 6 - Quantity on List");
     printf("\n  | 7 - Show List");
-    printf("\n  | 8 - Update List");
+    printf("\n  | 8 - Update Element");
     printf("\n  | 9 - Exit");
     printf("\n  ### Your Choice > ");
     scanf("%d",&option);
