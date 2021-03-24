@@ -12,7 +12,7 @@ Just execute the start-app.exe      :)
 
 <h1>Features</h1>
 <ul>
-	<li>Create a list</li>
+	<li>Create an List</li>
 	<li>Insert</li>
 	<li>Remove</li>
 	<li>Consult by name</li>
