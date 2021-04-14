@@ -8,7 +8,7 @@ The "dynamic" means that when the user add an new element the program will alloc
 The dynamic allocation and element pointer removes the need of an static array. This allows you to register new elements until you run out of memory.
 
 <h1>How to run?</h1>
-Just execute the start-app.exe      :)
+Compile with "gcc main.c structure.c", or another compiler that you uses, and run the .exe generated!
 
 <h1>Features</h1>
 <ul>
